@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "title":"GRAND DUNES <br>LANDSCAPE",
+        "mainTitle":"Chill Adventure",
+        "description": "Ornare vivamus molestie pellentesque nunc. Sed<br> sapien erat ultrices curabitur. Erat id fringilla arcu condimentum fames.<br><br>Aliquet dictum aliquet faucibus cursus turpis. Suspendisse cum rutrum sit ut sociis. Pellentesque neque<br>orci adipiscing pharetra lacus, dignissim pharetra ipsum blandit. Feugiat quis quam consectetur lectus<br>id quis tortor vel, mattis.",
+        "slider":[
+            "joe-mania.jpg",
+            "22.jpeg"
+        ]
+    },
+    {
+        "id":2,
+        "title":"Spooky Times <br>LANDSCAPE",
+        "mainTitle":"Spooky Times",
+        "description": "Ornare vivamus molestie pellentesque nunc. Sed<br> sapien erat ultrices curabitur. Erat id fringilla arcu condimentum fames.<br><br>Aliquet dictum aliquet faucibus cursus turpis. Suspendisse cum rutrum sit ut sociis. Pellentesque neque<br>orci adipiscing pharetra lacus, dignissim pharetra ipsum blandit. Feugiat quis quam consectetur lectus<br>id quis tortor vel, mattis.",
+        "slider":[
+            "22.jpeg",
+            "33.jpeg"
+        ]
+    },
+    {
+        "id":3,
+        "title":"Desert Madness <br>LANDSCAPE",
+        "mainTitle":"Desert Madness",
+        "description": "Ornare vivamus molestie pellentesque nunc. Sed<br> sapien erat ultrices curabitur. Erat id fringilla arcu condimentum fames.<br><br>Aliquet dictum aliquet faucibus cursus turpis. Suspendisse cum rutrum sit ut sociis. Pellentesque neque<br>orci adipiscing pharetra lacus, dignissim pharetra ipsum blandit. Feugiat quis quam consectetur lectus<br>id quis tortor vel, mattis.",
+        "slider":[
+            "33.jpeg",
+            "joe-mania.jpg"
+        ]
+    },
+    {
+        "id":4,
+        "title":"Out in the wild <br>LANDSCAPE",
+        "mainTitle":"Out in the wild",
+        "description": "Ornare vivamus molestie pellentesque nunc. Sed<br> sapien erat ultrices curabitur. Erat id fringilla arcu condimentum fames.<br><br>Aliquet dictum aliquet faucibus cursus turpis. Suspendisse cum rutrum sit ut sociis. Pellentesque neque<br>orci adipiscing pharetra lacus, dignissim pharetra ipsum blandit. Feugiat quis quam consectetur lectus<br>id quis tortor vel, mattis.",
+        "slider":[
+            "44.jpeg",
+            "joe-mania.jpg"
+        ]
+    }
+
+]
