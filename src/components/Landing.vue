@@ -4,10 +4,13 @@
         <!-- header -->
         <div class="head d-flex justify-content-between align-items-center">
           <div class="logo font-36">NT</div>
-          <div class="right-side">
-            <a href="javascript:" class=""><img src="../assets/search-icon.svg" width="24" height="24"
+          <div class="right-side d-flex align-items-center">
+            <a href="javascript:"><img class="search-icon" src="../assets/search-icon.svg" width="24" height="24"
                 alt="MAF"></a>
-            <button type="button" class="btn_ font-16 menu-btn">menu</button>
+            <div class="burgermenu-box position-relative">
+                <button type="button" class="btn_ font-16 menu-btn">menu</button>
+            </div>
+            
           </div>
         </div>
 
